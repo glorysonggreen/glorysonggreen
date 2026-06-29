@@ -51,7 +51,7 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=glorysonggreen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&icon_color=7EAFC4&text_color=c9d1d9&rank_icon=github" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=glorysonggreen&theme=tokyonight&hide_border=true&background=0D1117&ring=7EAFC4&fire=7EAFC4&currStreakLabel=7EAFC4" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=glorysonggreen&theme=tokyonight&hide_border=true&background=0D1117&ring=7EAFC4&fire=7EAFC4&currStreakLabel=7EAFC4" width="48%"/>
 
 <br/>
 
