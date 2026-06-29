@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:2C5364&height=180&section=header&text=Hey,%20I'm%20Matthew%20Simon%20R.%20Green&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=BS%20Computer%20Science%20%E2%80%A2%20Holy%20Angel%20University&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:2C5364&height=180&section=header&text=Hey,%20I'm%20[Your%20Name]&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=BS%20Computer%20Science%20%E2%80%A2%20Holy%20Angel%20University&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/glorysonggreen">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7EAFC4&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+Lifelong+Learner;Head+of+Technology+%26+Academics+%40+LOOP;Exploring+Data+Science+%26+Machine+Learning;Always+building%2C+always+growing" alt="Typing SVG" />
 </a>
 
@@ -86,7 +86,7 @@ A Harry Potter-inspired house allocation system created for LOOP's freshmen orie
 
 <div align="center">
 
-<a href="mailto:youremail@example.com">
+<a href="mailto:greenmatthew894@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
