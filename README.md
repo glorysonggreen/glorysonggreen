@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:2C5364&height=180&section=header&text=Hey,%20I'm%20Matthew%20Green&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=BS%20Computer%20Science%20%E2%80%A2%20Holy%20Angel%20University&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:2C5364&height=180&section=header&text=Hey,%20I'm%20Matthew%20Simon%20R.%20Green&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=BS%20Computer%20Science%20%E2%80%A2%20Holy%20Angel%20University&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a third-year BS Computer Science student at Holy Angel University with a genuine interest in building software that solves real problems. Outside of coursework, I serve as the **Head of Technology and Academics** at the **League of Outstanding Programmers (LOOP)**.
+I'm a third-year BS Computer Science student at Holy Angel University with a genuine interest in building software that solves real problems. Outside of coursework, I serve as the **Head of Technology and Academics** at the **League of Outstanding Programmers (LOOP)**, where I help build a community centered on technical growth and shared learning.
 
 I enjoy picking up new technologies and applying them in meaningful ways. Right now, I'm working on expanding into **Data Science** — learning how to draw insight from data and build models that can make a real difference. Whether it's software development, systems work, or something I haven't tried yet, I'm always looking for the next thing to build and the next skill to sharpen.
 
@@ -65,30 +65,25 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 
 ## Featured Projects
 
-<div align="center">
-
-> Both projects were developed by **League of Outstanding Programmers (LOOP)**.
+> Both projects were made for the **League of Outstanding Programmers (LOOP)**.
 
 <br/>
 
-<a href="https://github.com/glorysonggreen/Debugtale">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glorysonggreen&repo=Debugtale&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&text_color=c9d1d9&description_lines_count=2" width="45%"/>
-</a>
-<a href="https://github.com/glorysonggreen/Debugwarts-House-Allocation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glorysonggreen&repo=Debugwarts-House-Allocation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&text_color=c9d1d9&description_lines_count=2" width="45%"/>
-</a>
-
-</div>
-
-<br/>
 ### [Debugtale](https://github.com/glorysonggreen/Debugtale)
- 
+
 A fan-made game inspired by the battle sequences in Undertale, developed for LOOP as a showcase for the department's General Assembly. The project demonstrates game development concepts, custom mechanics, and interactive storytelling.
- 
+
+`Game Development` `Interactive Storytelling` `LOOP`
+
 <br/>
+
 ### [Debugwarts House Allocation System](https://github.com/glorysonggreen/Debugwarts-House-Allocation-System)
- 
+
 A Harry Potter-inspired house allocation system created for LOOP's freshmen orientation. Inspired by the iconic Sorting Hat, the application assigns incoming students to their respective houses through an engaging and interactive experience.
+
+`Application Development` `Freshmen Orientation` `LOOP`
+
+<br/>
 
 ---
 
