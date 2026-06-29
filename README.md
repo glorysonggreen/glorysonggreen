@@ -68,7 +68,7 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 
 A fan-made game inspired by the battle sequences in Undertale, developed for LOOP as a showcase for the department's General Assembly. The project demonstrates game development concepts, custom mechanics, and interactive storytelling.
 
-`Game Development` `Interactive Storytelling` `LOOP`
+`Game Development` `General Assembly` `LOOP`
 
 <br/>
 
@@ -76,7 +76,7 @@ A fan-made game inspired by the battle sequences in Undertale, developed for LOO
 
 A Harry Potter-inspired house allocation system created for LOOP's freshmen orientation. Inspired by the iconic Sorting Hat, the application assigns incoming students to their respective houses through an engaging and interactive experience.
 
-`Application Development` `Freshmen Orientation` `LOOP`
+`Game Development` `Freshmen Orientation` `LOOP`
 
 <br/>
 
