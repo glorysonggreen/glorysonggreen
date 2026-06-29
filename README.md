@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:2C5364&height=180&section=header&text=Hey,%20I'm%20Matthew%20Simon%20R.%20Green&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=BS%20Computer%20Science%20%E2%80%A2%20Holy%20Angel%20University&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:2C5364&height=180&section=header&text=Hey,%20I'm%20[Your%20Name]&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=BS%20Computer%20Science%20%E2%80%A2%20Holy%20Angel%20University&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -50,7 +50,12 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=glorysonggreen&theme=tokyonight&hide_border=true&background=0D1117&ring=7EAFC4&fire=7EAFC4&currStreakLabel=7EAFC4" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=glorysonggreen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&icon_color=7EAFC4&text_color=c9d1d9&rank_icon=github" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=glorysonggreen&theme=tokyonight&hide_border=true&background=0D1117&ring=7EAFC4&fire=7EAFC4&currStreakLabel=7EAFC4" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorysonggreen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&text_color=c9d1d9" width="48%"/>
 
 </div>
 
@@ -60,23 +65,26 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 
 ## Featured Projects
 
+<div align="center">
+
 > Both projects were made for the **League of Outstanding Programmers (LOOP)**.
 
 <br/>
 
-### [Debugtale](https://github.com/glorysonggreen/Debugtale)
+<a href="https://github.com/glorysonggreen/Debugtale">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glorysonggreen&repo=Debugtale&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&text_color=c9d1d9" width="45%"/>
+</a>
+<a href="https://github.com/glorysonggreen/Debugwarts-House-Allocation-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glorysonggreen&repo=Debugwarts-House-Allocation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&text_color=c9d1d9" width="45%"/>
+</a>
 
-A fan-made game inspired by the battle sequences in Undertale, developed for LOOP as a showcase for the department's General Assembly. The project demonstrates game development concepts, custom mechanics, and interactive storytelling.
-
-`Game Development` `General Assembly` `LOOP`
+</div>
 
 <br/>
 
-### [Debugwarts House Allocation System](https://github.com/glorysonggreen/Debugwarts-House-Allocation-System)
+**Debugtale** — A fan-made game inspired by the battle sequences in Undertale, developed for LOOP as a showcase for the department's General Assembly. The project demonstrates game development concepts, custom mechanics, and interactive storytelling.
 
-A Harry Potter-inspired house allocation system created for LOOP's freshmen orientation. Inspired by the iconic Sorting Hat, the application assigns incoming students to their respective houses through an engaging and interactive experience.
-
-`Game Development` `Freshmen Orientation` `LOOP`
+**Debugwarts House Allocation System** — A Harry Potter-inspired house allocation system created for LOOP's freshmen orientation. Inspired by the iconic Sorting Hat, the application assigns incoming students to their respective houses through an engaging and interactive experience.
 
 <br/>
 
@@ -88,6 +96,10 @@ A Harry Potter-inspired house allocation system created for LOOP's freshmen orie
 
 <a href="mailto:greenmatthew894@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.facebook.com/matthew.green.341251">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
