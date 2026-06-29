@@ -50,12 +50,7 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=glorysonggreen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&icon_color=7EAFC4&text_color=c9d1d9&rank_icon=github" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=glorysonggreen&theme=tokyonight&hide_border=true&background=0D1117&ring=7EAFC4&fire=7EAFC4&currStreakLabel=7EAFC4" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorysonggreen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=glorysonggreen&theme=tokyonight&hide_border=true&background=0D1117&ring=7EAFC4&fire=7EAFC4&currStreakLabel=7EAFC4" width="60%"/>
 
 </div>
 
@@ -65,26 +60,23 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 
 ## Featured Projects
 
-<div align="center">
-
 > Both projects were made for the **League of Outstanding Programmers (LOOP)**.
 
 <br/>
 
-<a href="https://github.com/glorysonggreen/Debugtale">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glorysonggreen&repo=Debugtale&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&text_color=c9d1d9" width="45%"/>
-</a>
-<a href="https://github.com/glorysonggreen/Debugwarts-House-Allocation-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=glorysonggreen&repo=Debugwarts-House-Allocation-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&text_color=c9d1d9" width="45%"/>
-</a>
+### [Debugtale](https://github.com/glorysonggreen/Debugtale)
 
-</div>
+A fan-made game inspired by the battle sequences in Undertale, developed for LOOP as a showcase for the department's General Assembly. The project demonstrates game development concepts, custom mechanics, and interactive storytelling.
+
+`Game Development` `General Assembly` `LOOP`
 
 <br/>
 
-**Debugtale** — A fan-made game inspired by the battle sequences in Undertale, developed for LOOP as a showcase for the department's General Assembly. The project demonstrates game development concepts, custom mechanics, and interactive storytelling.
+### [Debugwarts House Allocation System](https://github.com/glorysonggreen/Debugwarts-House-Allocation-System)
 
-**Debugwarts House Allocation System** — A Harry Potter-inspired house allocation system created for LOOP's freshmen orientation. Inspired by the iconic Sorting Hat, the application assigns incoming students to their respective houses through an engaging and interactive experience.
+A Harry Potter-inspired house allocation system created for LOOP's freshmen orientation. Inspired by the iconic Sorting Hat, the application assigns incoming students to their respective houses through an engaging and interactive experience.
+
+`Game Development` `Freshmen Orientation` `LOOP`
 
 <br/>
 
@@ -96,10 +88,6 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 
 <a href="mailto:greenmatthew894@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.facebook.com/matthew.green.341251">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
