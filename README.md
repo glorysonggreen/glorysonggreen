@@ -46,18 +46,15 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 
 ---
 
-## GitHub Statistics
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&icon_color=7EAFC4&text_color=c9d1d9&rank_icon=github" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=7EAFC4&fire=7EAFC4&currStreakLabel=7EAFC4" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7EAFC4&text_color=c9d1d9" width="48%"/>
+[![Follow on GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
 </div>
+
+> Stats and streaks will fill in naturally as the account grows — check back soon.
 
 <br/>
 
@@ -73,7 +70,7 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 
 A fan-made game inspired by the battle sequences in Undertale, developed for LOOP as a showcase for the department's General Assembly. The project demonstrates game development concepts, custom mechanics, and interactive storytelling.
 
-`Game Development` `Interactive Storytelling` `LOOP`
+`Game Development` `General Assembly` `LOOP`
 
 <br/>
 
@@ -81,7 +78,7 @@ A fan-made game inspired by the battle sequences in Undertale, developed for LOO
 
 A Harry Potter-inspired house allocation system created for LOOP's freshmen orientation. Inspired by the iconic Sorting Hat, the application assigns incoming students to their respective houses through an engaging and interactive experience.
 
-`Application Development` `Freshmen Orientation` `LOOP`
+`Game Development` `Freshmen Orientation` `LOOP`
 
 <br/>
 
