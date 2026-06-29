@@ -81,12 +81,14 @@ I enjoy picking up new technologies and applying them in meaningful ways. Right 
 </div>
 
 <br/>
-
-**Debugtale** — A fan-made game inspired by the battle sequences in Undertale, developed by me for LOOP as a showcase for the department's General Assembly. The project demonstrates game development concepts, custom mechanics, and interactive storytelling.
-
-**Debugwarts House Allocation System** — A Harry Potter-inspired house allocation system created by me for LOOP for the freshmen orientation. Inspired by the iconic Sorting Hat, the application assigns incoming students to their respective houses through an engaging and interactive experience.
-
+### [Debugtale](https://github.com/glorysonggreen/Debugtale)
+ 
+A fan-made game inspired by the battle sequences in Undertale, developed for LOOP as a showcase for the department's General Assembly. The project demonstrates game development concepts, custom mechanics, and interactive storytelling.
+ 
 <br/>
+### [Debugwarts House Allocation System](https://github.com/glorysonggreen/Debugwarts-House-Allocation-System)
+ 
+A Harry Potter-inspired house allocation system created for LOOP's freshmen orientation. Inspired by the iconic Sorting Hat, the application assigns incoming students to their respective houses through an engaging and interactive experience.
 
 ---
 
